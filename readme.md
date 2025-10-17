@@ -1,4 +1,4 @@
-### exec gzb 
+### Spawn go1 in dockerfile 
 
 ```sh
 rosrun gazebo_ros spawn_model -urdf \
